@@ -50,18 +50,32 @@ This repository contains various React projects that demonstrate different use c
 
 [Click here to learn more](https://github.com/AftabMankapure/React-Project/tree/main/currencyConvertor).
 
+### 4. [React Router](https://github.com/AftabMankapure/React-Project/tree/main/reactRouter)
 
-### 4. [React Router](https://github.com/AftabMankapure/React-Project/tree/main/reactRouter)  
-   **React Router** is a web application that demonstrates routing and dynamic rendering of pages using React Router.
+**React Router** is a web application that demonstrates routing and dynamic rendering of pages using React Router.
 
-   - Uses React Router for handling page navigation with nested routes.
-   - Supports dynamic URL parameters (e.g., `userid`) for flexible page rendering.
-   - Includes a loader function to fetch data for the Github page before rendering.
-   - Built with React, Vite, and Tailwind CSS.
+- Uses React Router for handling page navigation with nested routes.
+- Supports dynamic URL parameters (e.g., `userid`) for flexible page rendering.
+- Includes a loader function to fetch data for the Github page before rendering.
+- Built with React, Vite, and Tailwind CSS.
 
 ## Screenshots :-
+
 ![image](https://github.com/user-attachments/assets/6f727c4d-5be1-4db9-b4e8-17b93fa52bcf)
 
+### 5. [Theme Switcher](https://github.com/AftabMankapure/React-Project/tree/main/themeSwitcherToggle)
+
+**Theme Switcher** is a web application that allows users to toggle between light and dark themes dynamically.
+
+- **Light and Dark Mode**: Users can switch between light and dark themes with a single click.
+- **Context API**: Uses React's Context API (`ThemeProvider`) to manage and share theme state across components.
+- **Customizable Theme Button**: Includes a reusable `ThemeBtn` component for toggling themes.
+- **Dynamic Updates**: Automatically updates the theme by adding/removing appropriate classes on the HTML element.
+- Built with React, Vite, and Tailwind CSS.
+
+## Screenshots :-
+
+![image](https://github.com/user-attachments/assets/e42d8e40-5996-49b6-855e-bccca3bea27f)
 
 ## Tech Stack :-
 
@@ -69,4 +83,3 @@ This repository contains various React projects that demonstrate different use c
 - Tailwind CSS
 - Vite
 - JavaScript
-
